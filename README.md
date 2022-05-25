@@ -1,4 +1,4 @@
-# wr3
+# Olist-frontend
 
 ## Project setup
 ```
